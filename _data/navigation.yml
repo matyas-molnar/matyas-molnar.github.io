@@ -9,10 +9,10 @@
 
 main:
   - title: "Research"
-    url: /research/
+    url: /_research/
 
   - title: "Teaching"
-    url: /teaching/    
+    url: /_teaching/    
     
   - title: "Data"
-    url: /markdown/
+    url: /_data/
