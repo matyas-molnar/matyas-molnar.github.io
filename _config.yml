@@ -26,8 +26,8 @@ author:
   avatar           : "profile.png"
   name             : "Matyas Molnar"
   pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
+  bio              : "PhD Candidate at Economics"
+  location         : #"Earth"
   employer         : "Central European University"
   uri              : # URL
   email            : "molnar_matyas@phd.ceu.edu" 
@@ -57,7 +57,7 @@ author:
 
   # Social media
   artstation       : # Username
-  bluesky          : "bsky.app" # Replace this with you Bluesky username
+  bluesky          : "@mmatyas.bsky.social" # Replace this with you Bluesky username
   facebook         : # Username
   flickr           : # Username
   foursquare       : # Username
@@ -74,7 +74,7 @@ author:
   steam            : # Username
   telegram         : # URL
   tumblr           : # Username
-  twitter          : # Username for X / Twitter
+  twitter          : "@matyas_molnar1"
   vine             : # Username
   weibo            : # Username
   wikipedia        : # Username
@@ -155,7 +155,7 @@ social:
 
 # Analytics
 analytics:
-  provider               :  "false" # false (default), "google", "google-universal", "google-analytics-4", "custom"
+  provider               :  "google" # false (default), "google", "google-universal", "google-analytics-4", "custom"
   google:
     tracking_id          :
 
