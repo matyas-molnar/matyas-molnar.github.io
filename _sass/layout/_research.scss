@@ -1,0 +1,69 @@
+/* ==========================================================================
+   Research page: paper entries
+   ========================================================================== */
+
+.research-section {
+  margin-top: 2em;
+  margin-bottom: 0.5em;
+  padding-bottom: 0.3em;
+  border-bottom: 1px solid var(--global-border-color);
+}
+
+.paper {
+  margin: 0 0 1.6em 0;
+  padding-left: 0.9em;
+  border-left: 3px solid var(--global-border-color);
+
+  p { margin: 0 0 0.25em 0; }
+}
+
+.paper-title {
+  font-weight: bold;
+  font-size: 1.05em;
+  line-height: 1.35;
+
+  a { text-decoration: none; }
+  a:hover { text-decoration: underline; }
+}
+
+.paper-authors {
+  font-size: 0.9em;
+}
+
+.paper-links {
+  margin-top: 0.4em !important;
+  font-size: 0.8em;
+}
+
+.paper-tag {
+  display: inline-block;
+  margin-right: 0.5em;
+  font-style: italic;
+  color: var(--global-text-color-light);
+}
+
+.page__content a.paper-btn, a.paper-btn {
+  display: inline-block;
+  padding: 0.05em 0.6em;
+  border: 1px solid var(--global-link-color);
+  border-radius: 3px;
+  text-decoration: none !important;
+  &:hover { background: var(--global-link-color); color: #fff; text-decoration: none; }
+}
+
+.paper-abstract {
+  margin-top: 0.3em;
+  font-size: 0.9em;
+
+  summary {
+    cursor: pointer;
+    color: var(--global-link-color);
+    font-size: 0.9em;
+    width: fit-content;
+  }
+
+  p {
+    margin-top: 0.5em !important;
+    text-align: justify;
+  }
+}
