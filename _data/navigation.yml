@@ -12,7 +12,4 @@ main:
     url: /research/
 
   - title: "Teaching"
-    url: /teaching/    
-    
-  - title: "Data"
-    url: /data/
+    url: /teaching/
