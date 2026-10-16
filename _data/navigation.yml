@@ -1,9 +1,6 @@
 # Links in the header. Each one jumps to a section of the home page.
 
 main:
-  - title: "About"
-    url: /#about
-
   - title: "Research"
     url: /#research
 
