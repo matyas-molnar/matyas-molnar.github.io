@@ -68,9 +68,12 @@
   }
 }
 
-.paper-title .paper-btn {
+.paper-title a.paper-btn,
+.page__content .paper-title a.paper-btn {
   margin-left: 0.4em;
-  font-size: 0.7em;
-  font-weight: normal;
+  padding: 0 0.45em;
+  font-size: 0.6em !important;
+  font-weight: normal !important;
+  line-height: 1.6;
   vertical-align: middle;
 }
