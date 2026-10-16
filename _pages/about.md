@@ -11,7 +11,9 @@ redirect_from:
 
 I am a PhD candidate in economics at the Central European University (Vienna). My research focuses on economic history, international trade, and political economy. Two of my three thesis chapters analyse trade policies in the 19th century Austria-Hungary. I am also part of the project "Globalization and Industrial Policy: Evidence from the Austro-Hungarian Monarchy (IP-KuK)".
 
-<p class="jmp-callout"><strong>Job market paper:</strong> <em>Finding Buyers: Information and Trade Promotion in the First Globalization</em> <a class="paper-btn" href="/files/JMP.pdf">PDF</a> <a class="paper-btn" href="/files/Molnar_matyas_CV.pdf">CV</a></p>
+<h2 id="cv" class="home-section">CV</h2>
+
+<p class="cv-line">Curriculum vitae <a class="paper-btn" href="/files/Molnar_matyas_CV.pdf">PDF</a></p>
 
 <h2 id="research" class="home-section">Research</h2>
 
@@ -59,7 +61,3 @@ I am a PhD candidate in economics at the Central European University (Vienna). M
 | Spring 2024 | Teaching Assistant | Machine Learning with Natural Language Processing (Graduate) |
 | Winter 2024 | Teaching Assistant | Scientific Python (Graduate) |
 | Fall 2023 | Teaching Assistant | Macroeconomics for Economics Policy (Graduate) |
-
-<h2 id="cv" class="home-section">CV</h2>
-
-<p class="cv-line">Curriculum vitae <a class="paper-btn" href="/files/Molnar_matyas_CV.pdf">PDF</a></p>
