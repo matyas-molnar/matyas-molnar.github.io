@@ -16,7 +16,7 @@ author_profile: true
 </div>
 
 <div class="paper">
-  <p class="paper-title">What Happens in Paris, Does Not Stay in Paris: Trade Fairs and Search and Matching Frictions <a class="paper-btn" href="/files/paris_exhibition.pdf">PDF</a></p>
+  <p class="paper-title">What Happens in Paris, Does Not Stay in Paris: Trade Fairs and Search and Matching Frictions <em style="font-weight: normal;">(Submitted)</em> <a class="paper-btn" href="/files/paris_exhibition.pdf">PDF</a></p>
   <p class="paper-authors">with <a href="https://gaborbekes.com/">Gábor Békés</a> and <a href="https://sites.google.com/site/clsteinwender/">Claudia Steinwender</a></p>
   <p class="paper-links">
     <span class="paper-tag">CEPR Discussion Paper 21574</span>
