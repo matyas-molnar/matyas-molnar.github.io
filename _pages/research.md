@@ -8,7 +8,7 @@ author_profile: true
 <h2 class="research-section">Working Papers</h2>
 
 <div class="paper">
-  <p class="paper-title"><a href="/files/JMP.pdf">Finding Buyers: Information and Trade Promotion in the First Globalization</a> <em>(Job market paper)</em></p>
+  <p class="paper-title">Finding Buyers: Information and Trade Promotion in the First Globalization <em style="font-weight: normal;">(Job market paper)</em></p>
   <p class="paper-links">
     <a class="paper-btn" href="/files/JMP.pdf">PDF</a>
   </p>
@@ -19,7 +19,7 @@ author_profile: true
 </div>
 
 <div class="paper">
-  <p class="paper-title"><a href="/files/paris_exhibition.pdf">What Happens in Paris, Does Not Stay in Paris: Trade Fairs and Search and Matching Frictions</a></p>
+  <p class="paper-title">What Happens in Paris, Does Not Stay in Paris: Trade Fairs and Search and Matching Frictions</p>
   <p class="paper-authors">with <a href="https://gaborbekes.com/">Gábor Békés</a> and <a href="https://sites.google.com/site/clsteinwender/">Claudia Steinwender</a></p>
   <p class="paper-links">
     <span class="paper-tag">CEPR Discussion Paper 21574</span>
