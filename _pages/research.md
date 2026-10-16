@@ -8,6 +8,14 @@ author_profile: true
 <h2 class="research-section">Working Papers</h2>
 
 <div class="paper">
+  <p class="paper-title">Finding Buyers: Information and Trade Promotion in the First Globalization <em>(Job market paper)</em></p>
+  <details class="paper-abstract">
+    <summary>Abstract</summary>
+    <p>Governments spend significant resources on export promotion policies, yet RCTs and non-experimental studies disagree on whether they move firms into new markets. Furthermore, since modern programs bundle many services, it is difficult to pin down which components work. I isolate one: information about potential foreign buyers. During the first globalization, the Austro-Hungarian Export Compass published consular lists of foreign buyers that rotated across destination markets, generating variation in when exporters could identify buyers in each destination. Using a novel panel of ~13,000 firms from 1890 to 1898, I find that buyer information raises the probability of exporting to a covered destination the following year by 5.9%. Since I observe what information exporters received from buyers, I uncover what information on buyers may be used: effects are stronger for nearby markets and persist beyond one year only if listings contain a larger share of intermediary traders.</p>
+  </details>
+</div>
+
+<div class="paper">
   <p class="paper-title"><a href="https://drive.google.com/file/d/1D3D2l7P2MxA3f6qm_hgb5Z1X0eFGGLQB/view">What Happens in Paris, Does Not Stay in Paris: Trade Fairs and Search and Matching Frictions</a></p>
   <p class="paper-authors">with <a href="https://gaborbekes.com/">Gábor Békés</a> and <a href="https://sites.google.com/site/clsteinwender/">Claudia Steinwender</a></p>
   <p class="paper-links">
@@ -21,14 +29,6 @@ author_profile: true
 </div>
 
 <h2 class="research-section">Work in Progress</h2>
-
-<div class="paper">
-  <p class="paper-title">Matching Across Borders: Buyer Directories and Search Frictions in the First Globalization</p>
-  <details class="paper-abstract">
-    <summary>Abstract</summary>
-    <p>Using a historical quasi-experiment from late nineteenth-century Austria-Hungary, I show that published information about foreign buyers increases the probability of exporting to a destination by 5–14%, identifying buyer information as a key channel through which export promotion raises trade.</p>
-  </details>
-</div>
 
 <div class="paper">
   <p class="paper-title">Foreign Occupation and National Irredentism: Evidence from Hungary</p>

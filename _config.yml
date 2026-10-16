@@ -27,9 +27,9 @@ author:
   name             : "Matyas Molnar"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics"
+  bio_url          : "https://www.ceu.edu/departments/economics"
   location         : #"Earth"
   employer         : "Central European University"
-  employer_url     : "https://www.ceu.edu/departments/economics"
   uri              : # URL
   email            : "molnar_matyas@phd.ceu.edu" 
 
