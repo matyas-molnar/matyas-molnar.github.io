@@ -17,23 +17,21 @@ I am especially interested in evaluating 19th-century industrial policies using 
 
 <h2 id="research" class="home-section">Research</h2>
 
-<h3 class="research-subsection">Job Market Paper</h3>
+<h3 class="research-subsection">Working Papers</h3>
 
 <div class="paper">
-  <p class="paper-title">Finding Buyers: Information and Trade Promotion in the First Globalization <a class="paper-btn" href="/files/JMP.pdf">PDF</a></p>
+  <p class="paper-title">Finding Buyers: Information and Trade Promotion in the First Globalization <em style="font-weight: normal;">(JMP)</em> <a class="paper-btn" href="/files/JMP.pdf">PDF</a></p>
   <details class="paper-abstract" open>
     <summary>Abstract</summary>
     <p>Governments spend significant resources on export promotion policies, yet RCTs and non-experimental studies disagree on whether they move firms into new markets. Furthermore, since modern programs bundle many services, it is difficult to pin down which components work. I isolate one: information about potential foreign buyers. During the first globalization, the Austro-Hungarian Export Compass published consular lists of foreign buyers that rotated across destination markets, generating variation in when exporters could identify buyers in each destination. Using a novel panel of ~13,000 firms from 1890 to 1898, I find that buyer information raises the probability of exporting to a covered destination the following year by 5.9%. Since I observe what information exporters received from buyers, I uncover what information on buyers may be used: effects are stronger for nearby markets and persist beyond one year only if listings contain a larger share of intermediary traders.</p>
   </details>
 </div>
 
-<h3 class="research-subsection">Working Papers</h3>
-
 <div class="paper">
   <p class="paper-title">What Happens in Paris, Does Not Stay in Paris: Trade Fairs and Search and Matching Frictions <em style="font-weight: normal;">(Submitted)</em> <a class="paper-btn" href="/files/paris_exhibition.pdf">PDF</a></p>
   <p class="paper-authors">with <a href="https://gaborbekes.com/">Gábor Békés</a> and <a href="https://sites.google.com/site/clsteinwender/">Claudia Steinwender</a></p>
   <p class="paper-links">
-    <span class="paper-tag">CEPR Discussion Paper 21574</span>
+    <span class="paper-tag">CEPR Discussion Paper 21574 · CESifo Working Paper No. 12714</span>
   </p>
   <details class="paper-abstract">
     <summary>Abstract</summary>
