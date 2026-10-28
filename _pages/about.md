@@ -1,6 +1,8 @@
 ---
 permalink: /
-title: "Welcome to my page!"
+title: "Mátyás Molnár – Economics"
+seo_title: "Mátyás Molnár – Economics, Central European University"
+description: "Mátyás Molnár (Matyas Molnar) – PhD candidate in economics at the Central European University (CEU), Vienna. International trade, industrial policy, applied microeconomics and economic history."
 author_profile: true
 redirect_from: 
   - /about/
