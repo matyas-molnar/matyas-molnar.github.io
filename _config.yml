@@ -193,6 +193,19 @@ exclude:
   - README
   - tmp
   - vendor
+  # template demo content and tools, hidden from the site
+  - _posts
+  - _drafts
+  - markdown_generator
+  - talkmap
+  - talkmap.py
+  - talkmap.ipynb
+  - talkmap_out.ipynb
+  - scripts
+  - docker-compose.yaml
+  - _config_docker.yml
+  - README.md
+  - "Claude outputs"
 keep_files:
   - .git
   - .svn
@@ -223,16 +236,16 @@ kramdown:
 # These settings control the types of collections used by the template
 collections:
   teaching:
-    output: true
+    output: false   # template demo content hidden (was true)
     permalink: /:collection/:path/
   publications:
-    output: true
+    output: false   # template demo content hidden (was true)
     permalink: /:collection/:path/
   portfolio:
-    output: true
+    output: false   # template demo content hidden (was true)
     permalink: /:collection/:path/
   talks:
-    output: true
+    output: false   # template demo content hidden (was true)
     permalink: /:collection/:path/
 
 
@@ -243,6 +256,7 @@ defaults:
       path: ""
       type: posts
     values:
+      published: false   # hide template blog posts
       layout: single
       author_profile: true
       read_time: true

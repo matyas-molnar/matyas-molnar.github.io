@@ -1,4 +1,5 @@
 ---
+published: false   # template page, hidden
 title: "Archive Layout with Content"
 layout: archive
 permalink: /archive-layout-with-content/

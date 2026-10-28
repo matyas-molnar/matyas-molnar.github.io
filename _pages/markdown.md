@@ -1,4 +1,5 @@
 ---
+published: false   # template page, hidden
 permalink: /markdown/
 title: "Markdown"
 author_profile: true

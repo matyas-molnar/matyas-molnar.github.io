@@ -1,4 +1,5 @@
 ---
+published: false   # template page, hidden
 layout: archive
 title: "Sitemap"
 permalink: /sitemap/
