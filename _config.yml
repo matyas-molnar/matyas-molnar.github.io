@@ -23,7 +23,7 @@ repository               : "academicpages/academicpages.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "DSC_0083_square_v2.jpg"
+  avatar           : "headshot_2026_square.jpg"
   name             : "Mátyás Molnár"
   pronouns         : # example: "she/her"  
   bio              : "PhD Candidate in Economics"
