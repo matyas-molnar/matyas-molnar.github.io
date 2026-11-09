@@ -11,9 +11,12 @@ redirect_from:
 
 <div id="about"></div>
 
+Welcome to my page!
+
 I am a PhD candidate in economics at the Central European University (Vienna), expecting to complete my thesis in June 2027. My research focuses on international trade, industrial policy, applied microeconomics, and economic history.
 
-I am especially interested in evaluating 19th-century industrial policies using natural experiments. Two of my projects study export promotion in Austria-Hungary: the information provided by buyer directories, and participation in international trade fairs. I am also a doctoral researcher on the project “Globalization and Industrial Policy: Evidence from the Austro-Hungarian Monarchy (IP-KuK)” with Gábor Békés and Claudia Steinwender.
+
+I am especially interested in evaluating industrial and trade policies using quasi-experimental methods. Two of my projects study export promotion in 19th-century Austria-Hungary: the information provided by buyer directories, and participation in international trade fairs. I am also a doctoral researcher on the project “Globalization and Industrial Policy: Evidence from the Austro-Hungarian Monarchy (IP-KuK)” with Gábor Békés and Claudia Steinwender. As part of this project, we are building a new database of Austro-Hungarian industrial policies.
 
 <p id="cv" class="cv-line">Curriculum vitae <a class="paper-btn" href="/files/Molnar_matyas_CV.pdf">PDF</a></p>
 
